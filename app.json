@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "FF MAX APK",
+    "description": "80% HEADSHOT + 2GB HOLOGRAM (FF MAX)",
+    "imageUrl": "https://i.ibb.co/your-image-code/ffmax.png",
+    "isRecommended": true,
+    "files": [
+      {
+        "id": "1",
+        "fileName": "FF_MAX_MOD.apk",
+        "fileSize": "850 MB",
+        "downloadUrl": "https://file.kiwi/your-ffmax-link",
+        "setupVideoUrl": "https://youtu.be/your-setup-video",
+        "version": "2.5",
+        "requirements": "Android 9.0+, 4GB RAM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "FF GLOBAL MOD",
+    "description": "80% HEADSHOT + 2GB HOLOGRAM (FF GLOBAL)",
+    "imageUrl": "https://i.ibb.co/your-image-code/ffglobal.png",
+    "isRecommended": false,
+    "files": [
+      {
+        "id": "1",
+        "fileName": "FF_GLOBAL_MOD.apk",
+        "fileSize": "780 MB",
+        "downloadUrl": "https://file.kiwi/your-ffglobal-link",
+        "setupVideoUrl": "https://youtu.be/your-setup-video-2",
+        "version": "2.3",
+        "requirements": "Android 8.0+, 3GB RAM"
+      }
+    ]
+  }
+]
